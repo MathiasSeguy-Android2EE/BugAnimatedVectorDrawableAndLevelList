@@ -1,1 +1,1 @@
-include ':app', ':workingdirsimpletest'
+include ':app'
